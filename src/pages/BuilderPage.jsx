@@ -66,7 +66,7 @@ export default function BuilderPage() {
         {/* Logo */}
         <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
           <div style={{ width: "8px", height: "8px", borderRadius: "50%", background: "#E85D26" }} />
-          <span style={{ fontFamily: sans, fontSize: "13px", fontWeight: 700, color: "#fff", letterSpacing: "0.1em", textTransform: "uppercase" }}>
+          <span style={{ fontFamily: sans, fontSize: "13px", fontWeight: 700, color: "#fff", letterSpacing: "0.1em" }}>
             CVly
           </span>
         </div>
