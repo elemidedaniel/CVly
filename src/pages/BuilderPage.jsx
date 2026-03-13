@@ -218,6 +218,3 @@ export default function BuilderPage() {
   );
 }
 
-git add .
-git commit -m "fix logo"
-git push
