@@ -67,7 +67,7 @@ export default function BuilderPage() {
         <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
           <div style={{ width: "8px", height: "8px", borderRadius: "50%", background: "#E85D26" }} />
           <span style={{ fontFamily: sans, fontSize: "13px", fontWeight: 700, color: "#fff", letterSpacing: "0.1em", textTransform: "uppercase" }}>
-            CV Builder
+            CVly
           </span>
         </div>
 
@@ -217,3 +217,7 @@ export default function BuilderPage() {
     </div>
   );
 }
+
+git add .
+git commit -m "fix logo"
+git push
